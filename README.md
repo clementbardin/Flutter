@@ -1,6 +1,6 @@
 # flutter__snake
 
-A new Flutter project.
+Un Snake en Flutter.
 
 ## Getting Started
 
